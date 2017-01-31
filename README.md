@@ -3,7 +3,7 @@ My npm template I like ❤️. One step further from ```npm init```. Preconfig b
 
 ## What it does?
 - preinstall ```nvmrc```, ```babelrc``` and ```eslintrc``` 
-- ```npm start``` and ```npm build``` script
+- preinstall ```npm start``` and ```npm build``` script
 
 ## English please.
 - Latest ES6 features including module syntax
